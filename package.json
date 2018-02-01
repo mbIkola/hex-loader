@@ -1,0 +1,11 @@
+{
+	"name": "hex-loader",
+	"version": "0.0.1",
+	"author": "Nickolay \"mbIkola\" Kharchevin <kharchevyn@gmail.com>",
+	"description": "hex loader module for webpack",
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:mbIkola/hex-loader.git"
+	},
+	"license": "MIT"
+}
